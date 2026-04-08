@@ -1,0 +1,21 @@
+C:\Users\DELL\OneDrive\Desktop\dangkytaikhoan\bin\Debug\dangkytaikhoan.exe.config
+C:\Users\DELL\OneDrive\Desktop\dangkytaikhoan\bin\Debug\dangkytaikhoan.exe
+C:\Users\DELL\OneDrive\Desktop\dangkytaikhoan\bin\Debug\dangkytaikhoan.pdb
+C:\Users\DELL\OneDrive\Desktop\dangkytaikhoan\obj\Debug\dangkytaikhoan.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\dangkytaikhoan\obj\Debug\dangkytaikhoan.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\dangkytaikhoan\obj\Debug\dangkytaikhoan.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\dangkytaikhoan\obj\Debug\dangkytaikhoan.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\dangkytaikhoan\obj\Debug\dangkytaikhoan.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\dangkytaikhoan\obj\Debug\dangkytaikhoan.exe
+C:\Users\DELL\OneDrive\Desktop\dangkytaikhoan\obj\Debug\dangkytaikhoan.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\dangkytaikhoan\bin\Debug\dangkytaikhoan.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\dangkytaikhoan\bin\Debug\dangkytaikhoan.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\dangkytaikhoan\bin\Debug\dangkytaikhoan.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\dangkytaikhoan\obj\Debug\dangkytaikhoan.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\dangkytaikhoan\obj\Debug\dangkytaikhoan.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\dangkytaikhoan\obj\Debug\dangkytaikhoan.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\dangkytaikhoan\obj\Debug\dangkytaikhoan.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\dangkytaikhoan\obj\Debug\dangkytaikhoan.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\dangkytaikhoan\obj\Debug\dangkytaikhoan.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\dangkytaikhoan\obj\Debug\dangkytaikhoan.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\dangkytaikhoan\obj\Debug\dangkytaikhoan.exe.config

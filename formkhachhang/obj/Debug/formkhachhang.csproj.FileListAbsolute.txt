@@ -1,0 +1,22 @@
+C:\Users\DELL\OneDrive\Desktop\formkhachhang\bin\Debug\formkhachhang.exe.config
+C:\Users\DELL\OneDrive\Desktop\formkhachhang\bin\Debug\formkhachhang.exe
+C:\Users\DELL\OneDrive\Desktop\formkhachhang\bin\Debug\formkhachhang.pdb
+C:\Users\DELL\OneDrive\Desktop\formkhachhang\obj\Debug\formkhachhang.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\formkhachhang\obj\Debug\formkhachhang.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\formkhachhang\obj\Debug\formkhachhang.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\formkhachhang\obj\Debug\formkhachhang.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\formkhachhang\obj\Debug\formkhachhang.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\formkhachhang\obj\Debug\formkhachhang.exe
+C:\Users\DELL\OneDrive\Desktop\formkhachhang\obj\Debug\formkhachhang.pdb
+C:\Users\DELL\OneDrive\Desktop\formkhachhang\obj\Debug\formkhachhang.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formkhachhang\bin\Debug\formkhachhang.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formkhachhang\bin\Debug\formkhachhang.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formkhachhang\bin\Debug\formkhachhang.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formkhachhang\obj\Debug\formkhachhang.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formkhachhang\obj\Debug\formkhachhang.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formkhachhang\obj\Debug\formkhachhang.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formkhachhang\obj\Debug\formkhachhang.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formkhachhang\obj\Debug\formkhachhang.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formkhachhang\obj\Debug\formkhachhang.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formkhachhang\obj\Debug\formkhachhang.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formkhachhang\obj\Debug\formkhachhang.pdb

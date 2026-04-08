@@ -1,0 +1,11 @@
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formluongnv\bin\Debug\formluongnv.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formluongnv\bin\Debug\formluongnv.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formluongnv\bin\Debug\formluongnv.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formluongnv\obj\Debug\formluongnv.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formluongnv\obj\Debug\formluongnv.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formluongnv\obj\Debug\formluongnv.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formluongnv\obj\Debug\formluongnv.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formluongnv\obj\Debug\formluongnv.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formluongnv\obj\Debug\formluongnv.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formluongnv\obj\Debug\formluongnv.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formluongnv\obj\Debug\formluongnv.exe.config

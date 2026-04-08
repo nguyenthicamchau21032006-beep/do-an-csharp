@@ -1,0 +1,22 @@
+C:\Users\DELL\OneDrive\Desktop\inhoadon\bin\Debug\inhoadon.exe.config
+C:\Users\DELL\OneDrive\Desktop\inhoadon\bin\Debug\inhoadon.exe
+C:\Users\DELL\OneDrive\Desktop\inhoadon\bin\Debug\inhoadon.pdb
+C:\Users\DELL\OneDrive\Desktop\inhoadon\obj\Debug\inhoadon.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\inhoadon\obj\Debug\inhoadon.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\inhoadon\obj\Debug\inhoadon.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\inhoadon\obj\Debug\inhoadon.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\inhoadon\obj\Debug\inhoadon.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\inhoadon\obj\Debug\inhoadon.exe
+C:\Users\DELL\OneDrive\Desktop\inhoadon\obj\Debug\inhoadon.pdb
+C:\Users\DELL\OneDrive\Desktop\inhoadon\obj\Debug\inhoadon.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\inhoadon\bin\Debug\inhoadon.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\inhoadon\bin\Debug\inhoadon.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\inhoadon\bin\Debug\inhoadon.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\inhoadon\obj\Debug\inhoadon.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\inhoadon\obj\Debug\inhoadon.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\inhoadon\obj\Debug\inhoadon.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\inhoadon\obj\Debug\inhoadon.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\inhoadon\obj\Debug\inhoadon.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\inhoadon\obj\Debug\inhoadon.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\inhoadon\obj\Debug\inhoadon.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\inhoadon\obj\Debug\inhoadon.pdb

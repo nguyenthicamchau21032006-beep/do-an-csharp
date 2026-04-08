@@ -1,0 +1,40 @@
+C:\Users\DELL\OneDrive\Desktop\formnhanvien\bin\Debug\formnhanvien.exe.config
+C:\Users\DELL\OneDrive\Desktop\formnhanvien\bin\Debug\formnhanvien.exe
+C:\Users\DELL\OneDrive\Desktop\formnhanvien\bin\Debug\formnhanvien.pdb
+C:\Users\DELL\OneDrive\Desktop\formnhanvien\obj\Debug\formnhanvien.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\formnhanvien\obj\Debug\formnhanvien.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\formnhanvien\obj\Debug\formnhanvien.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\formnhanvien\obj\Debug\formnhanvien.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\formnhanvien\obj\Debug\formnhanvien.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\formnhanvien\obj\Debug\formnhanvien.exe
+C:\Users\DELL\OneDrive\Desktop\formnhanvien\obj\Debug\formnhanvien.pdb
+C:\Users\DELL\OneDrive\Desktop\formnhanvien\obj\Debug\formnhanvien.exe.config
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\formnhanvien\bin\Debug\formnhanvien.exe.config
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\formnhanvien\bin\Debug\formnhanvien.exe
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\formnhanvien\bin\Debug\formnhanvien.pdb
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\formnhanvien\bin\Debug\KhoHang.exe
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\formnhanvien\bin\Debug\KhoHang.pdb
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\formnhanvien\bin\Debug\KhoHang.exe.config
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\formnhanvien\obj\Debug\formnhanvien.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\formnhanvien\obj\Debug\formnhanvien.exe.config
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\formnhanvien\obj\Debug\formnhanvien.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\formnhanvien\obj\Debug\formnhanvien.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\formnhanvien\obj\Debug\formnhanvien.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\formnhanvien\obj\Debug\formnhanvien.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\formnhanvien\obj\Debug\formnhan.176454AB.Up2Date
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\formnhanvien\obj\Debug\formnhanvien.exe
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\formnhanvien\obj\Debug\formnhanvien.pdb
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\formnhanvien\bin\Debug\frombanhang.exe
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\formnhanvien\bin\Debug\frombanhang.pdb
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\formnhanvien\bin\Debug\frombanhang.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formnhanvien\bin\Debug\formnhanvien.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formnhanvien\bin\Debug\formnhanvien.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formnhanvien\bin\Debug\formnhanvien.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formnhanvien\obj\Debug\formnhanvien.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formnhanvien\obj\Debug\formnhanvien.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formnhanvien\obj\Debug\formnhanvien.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formnhanvien\obj\Debug\formnhanvien.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formnhanvien\obj\Debug\formnhanvien.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formnhanvien\obj\Debug\formnhanvien.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formnhanvien\obj\Debug\formnhanvien.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\formnhanvien\obj\Debug\formnhanvien.pdb

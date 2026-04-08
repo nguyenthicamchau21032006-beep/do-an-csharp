@@ -1,0 +1,54 @@
+C:\Users\DELL\OneDrive\Desktop\trang chủ\bin\Debug\trang chủ.exe.config
+C:\Users\DELL\OneDrive\Desktop\trang chủ\bin\Debug\trang chủ.exe
+C:\Users\DELL\OneDrive\Desktop\trang chủ\bin\Debug\trang chủ.pdb
+C:\Users\DELL\OneDrive\Desktop\trang chủ\bin\Debug\KhoHang.exe
+C:\Users\DELL\OneDrive\Desktop\trang chủ\bin\Debug\KhoHang.pdb
+C:\Users\DELL\OneDrive\Desktop\trang chủ\bin\Debug\KhoHang.exe.config
+C:\Users\DELL\OneDrive\Desktop\trang chủ\obj\Debug\trang chủ.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\trang chủ\obj\Debug\trang_chủ.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\trang chủ\obj\Debug\trang_chủ.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\trang chủ\obj\Debug\trang chủ.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\trang chủ\obj\Debug\trang chủ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\trang chủ\obj\Debug\trang chủ.csproj.Up2Date
+C:\Users\DELL\OneDrive\Desktop\trang chủ\obj\Debug\trang chủ.exe
+C:\Users\DELL\OneDrive\Desktop\trang chủ\obj\Debug\trang chủ.pdb
+C:\Users\DELL\OneDrive\Desktop\trang chủ\obj\Debug\trang chủ.exe.config
+C:\Users\DELL\OneDrive\Desktop\trang chủ\bin\Debug\formnhanvien.exe
+C:\Users\DELL\OneDrive\Desktop\trang chủ\bin\Debug\formnhanvien.pdb
+C:\Users\DELL\OneDrive\Desktop\trang chủ\bin\Debug\formnhanvien.exe.config
+C:\Users\DELL\OneDrive\Desktop\trang chủ\bin\Debug\frombanhang.exe
+C:\Users\DELL\OneDrive\Desktop\trang chủ\bin\Debug\frombanhang.pdb
+C:\Users\DELL\OneDrive\Desktop\trang chủ\bin\Debug\frombanhang.exe.config
+C:\Users\DELL\OneDrive\Desktop\trang chủ\bin\Debug\formkhachhang.exe
+C:\Users\DELL\OneDrive\Desktop\trang chủ\bin\Debug\formkhachhang.pdb
+C:\Users\DELL\OneDrive\Desktop\trang chủ\bin\Debug\formkhachhang.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\bin\Debug\trang chủ.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\bin\Debug\trang chủ.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\bin\Debug\trang chủ.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\bin\Debug\formkhachhang.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\bin\Debug\formluongnv.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\bin\Debug\formnhanvien.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\bin\Debug\frombanhang.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\bin\Debug\KhoHang.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\bin\Debug\inhoadon.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\bin\Debug\formkhachhang.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\bin\Debug\formkhachhang.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\bin\Debug\formluongnv.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\bin\Debug\formluongnv.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\bin\Debug\formnhanvien.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\bin\Debug\formnhanvien.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\bin\Debug\frombanhang.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\bin\Debug\frombanhang.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\bin\Debug\KhoHang.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\bin\Debug\KhoHang.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\bin\Debug\inhoadon.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\bin\Debug\inhoadon.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\obj\Debug\trang chủ.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\obj\Debug\trang_chủ.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\obj\Debug\trang_chủ.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\obj\Debug\trang chủ.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\obj\Debug\trang chủ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\obj\Debug\trang chủ.csproj.Up2Date
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\obj\Debug\trang chủ.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\obj\Debug\trang chủ.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\trang chủ\obj\Debug\trang chủ.exe.config

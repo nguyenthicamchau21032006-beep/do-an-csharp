@@ -1,0 +1,32 @@
+C:\Users\DELL\OneDrive\Desktop\KhoHang\obj\Debug\KhoHang.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\KhoHang\obj\Debug\KhoHang.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\KhoHang\obj\Debug\KhoHang.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\KhoHang\obj\Debug\KhoHang.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\KhoHang\obj\Debug\KhoHang.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\KhoHang\bin\Debug\KhoHang.exe.config
+C:\Users\DELL\OneDrive\Desktop\KhoHang\bin\Debug\KhoHang.exe
+C:\Users\DELL\OneDrive\Desktop\KhoHang\bin\Debug\KhoHang.pdb
+C:\Users\DELL\OneDrive\Desktop\KhoHang\obj\Debug\KhoHang.exe
+C:\Users\DELL\OneDrive\Desktop\KhoHang\obj\Debug\KhoHang.pdb
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\KhoHang\bin\Debug\KhoHang.exe.config
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\KhoHang\bin\Debug\KhoHang.exe
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\KhoHang\bin\Debug\KhoHang.pdb
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\KhoHang\obj\Debug\KhoHang.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\KhoHang\obj\Debug\KhoHang.exe.config
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\KhoHang\obj\Debug\KhoHang.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\KhoHang\obj\Debug\KhoHang.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\KhoHang\obj\Debug\KhoHang.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\KhoHang\obj\Debug\KhoHang.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\KhoHang\obj\Debug\KhoHang.exe
+C:\Users\DELL\OneDrive\Desktop\New folder\admin dangnhap\KhoHang\obj\Debug\KhoHang.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\KhoHang\bin\Debug\KhoHang.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\KhoHang\bin\Debug\KhoHang.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\KhoHang\bin\Debug\KhoHang.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\KhoHang\obj\Debug\KhoHang.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\KhoHang\obj\Debug\KhoHang.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\KhoHang\obj\Debug\KhoHang.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\KhoHang\obj\Debug\KhoHang.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\KhoHang\obj\Debug\KhoHang.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\KhoHang\obj\Debug\KhoHang.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\KhoHang\obj\Debug\KhoHang.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\KhoHang\obj\Debug\KhoHang.pdb

@@ -1,0 +1,22 @@
+C:\Users\DELL\OneDrive\Desktop\quenmatkhau\bin\Debug\quenmatkhau.exe.config
+C:\Users\DELL\OneDrive\Desktop\quenmatkhau\bin\Debug\quenmatkhau.exe
+C:\Users\DELL\OneDrive\Desktop\quenmatkhau\bin\Debug\quenmatkhau.pdb
+C:\Users\DELL\OneDrive\Desktop\quenmatkhau\obj\Debug\quenmatkhau.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\quenmatkhau\obj\Debug\quenmatkhau.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\quenmatkhau\obj\Debug\quenmatkhau.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\quenmatkhau\obj\Debug\quenmatkhau.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\quenmatkhau\obj\Debug\quenmatkhau.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\quenmatkhau\obj\Debug\quenmatkhau.exe
+C:\Users\DELL\OneDrive\Desktop\quenmatkhau\obj\Debug\quenmatkhau.pdb
+C:\Users\DELL\OneDrive\Desktop\quenmatkhau\obj\Debug\quenmatkhau.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\quenmatkhau\bin\Debug\quenmatkhau.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\quenmatkhau\bin\Debug\quenmatkhau.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\quenmatkhau\bin\Debug\quenmatkhau.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\quenmatkhau\obj\Debug\quenmatkhau.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\quenmatkhau\obj\Debug\quenmatkhau.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\quenmatkhau\obj\Debug\quenmatkhau.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\quenmatkhau\obj\Debug\quenmatkhau.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\quenmatkhau\obj\Debug\quenmatkhau.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\quenmatkhau\obj\Debug\quenmatkhau.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\quenmatkhau\obj\Debug\quenmatkhau.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\quenmatkhau\obj\Debug\quenmatkhau.pdb

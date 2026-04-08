@@ -1,0 +1,29 @@
+C:\Users\DELL\OneDrive\Desktop\frombanhang\bin\Debug\frombanhang.exe.config
+C:\Users\DELL\OneDrive\Desktop\frombanhang\bin\Debug\frombanhang.exe
+C:\Users\DELL\OneDrive\Desktop\frombanhang\bin\Debug\frombanhang.pdb
+C:\Users\DELL\OneDrive\Desktop\frombanhang\obj\Debug\frombanhang.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\frombanhang\obj\Debug\frombanhang.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\frombanhang\obj\Debug\frombanhang.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\frombanhang\obj\Debug\frombanhang.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\frombanhang\obj\Debug\frombanhang.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\frombanhang\obj\Debug\frombanhang.exe
+C:\Users\DELL\OneDrive\Desktop\frombanhang\obj\Debug\frombanhang.pdb
+C:\Users\DELL\OneDrive\Desktop\frombanhang\obj\Debug\frombanhang.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\frombanhang\bin\Debug\frombanhang.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\frombanhang\bin\Debug\frombanhang.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\frombanhang\bin\Debug\frombanhang.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\frombanhang\obj\Debug\frombanhang.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\frombanhang\obj\Debug\frombanhang.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\frombanhang\obj\Debug\frombanhang.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\frombanhang\obj\Debug\frombanhang.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\frombanhang\obj\Debug\frombanhang.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\frombanhang\obj\Debug\frombanhang.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\frombanhang\obj\Debug\frombanhang.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\frombanhang\obj\Debug\frombanhang.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\frombanhang\bin\Debug\inhoadon.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\frombanhang\bin\Debug\inhoadon.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\frombanhang\bin\Debug\inhoadon.exe.config
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\frombanhang\obj\Debug\frombanh.C6C2C35B.Up2Date
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\frombanhang\bin\Debug\KhoHang.exe
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\frombanhang\bin\Debug\KhoHang.pdb
+C:\Users\DELL\OneDrive\Desktop\PROFILE CUỐI KỲ CÔNG NGHỆ .NET\frombanhang\bin\Debug\KhoHang.exe.config
